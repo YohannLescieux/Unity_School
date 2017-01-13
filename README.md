@@ -12,11 +12,8 @@ __________________________________________________________
 ##Navigation with a Drag'n Go technique
 ![Tp6 - Drag'n Go Navigation Technique](Previews_scenes/Tp6_navig_drag_go.gif)
 __________________________________________________________
-##Map creation
+##Map creation (Navigation is possible)
 ![Tp3 - Map](Previews_scenes/Tp3_map.gif)
-__________________________________________________________
-##Navigation on the map
-![Tp3 - Navigation soldier](Previews_scenes/Tp3_fps_soldier.gif)
 __________________________________________________________
 ##Particles systems and animation with Keyframes
 ![Tp4 - Animation Keyframes](Previews_scenes/Tp4_robot_particule.gif)
