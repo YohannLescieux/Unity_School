@@ -1,5 +1,5 @@
-#Different projects made under Unity3D
-===
+##Different projects made under Unity3D
+
 Overview of the various exercises done during the "Réalité virtuelle et interaction" course from Master 2 IVI (Lille 1 University)
 ===
 ##Create spheres with Physics
