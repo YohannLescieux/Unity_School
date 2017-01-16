@@ -1,6 +1,6 @@
 #Different projects made under Unity3D
 
-###Overview of the various exercises done during the "Réalité virtuelle et interaction" course from Master 2 IVI (Lille 1 University)
+###Overview of the various exercices done during the "Réalité virtuelle et interaction" course from Master 2 IVI (Lille 1 University)
 
 __________________________________________________________
 ##Teleport and goals
